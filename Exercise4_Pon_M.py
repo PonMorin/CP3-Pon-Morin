@@ -7,5 +7,4 @@ print("Foundation English: ",F)
 print("General Business: ",G)
 print("Introduction to Computer Systems: ",I)
 print("Computer Programming: ",C)
-C = 83.4
 print("----------------------")
